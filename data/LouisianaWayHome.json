@@ -1134,36 +1134,36 @@
     "favorite": false
   },
   {
-    "word": "compromised",
-    "ipa": "/ˈkɒmprəmaɪzd/",
+    "word": "compromise",
+    "ipa": "/ˈkɒmprəmaɪz/",
     "meaning": [
       {
         "vi": "bị tổn hại, bị ảnh hưởng, bị làm suy yếu",
         "example_en": "I am unwell and baffled and compromised. I would like to sleep.",
         "example_vi": "Tôi không khỏe, bối rối và bị tổn hại. Tôi muốn ngủ.",
-        "note": "Compromised có thể chỉ tình trạng sức khỏe hoặc tình huống bị suy yếu hoặc gặp phải khó khăn do các yếu tố ngoại cảnh."
+        "note": "Compromise có thể chỉ tình trạng sức khỏe hoặc tình huống bị suy yếu hoặc gặp phải khó khăn do các yếu tố ngoại cảnh."
       }
     ],
     "cefr_level": "B2",
     "favorite": false
   },
   {
-    "word": "resenting",
-    "ipa": "/rɪˈzɛntɪŋ/",
+    "word": "resent",
+    "ipa": "/rɪˈzɛnt/",
     "meaning": [
       {
         "vi": "bực tức, phẫn nộ",
         "example_en": "Do not bother resenting me, Louisiana.",
         "example_vi": "Đừng làm phiền vì bực tức tôi, Louisiana.",
-        "note": "Resenting chỉ cảm giác bực bội, phẫn nộ hoặc không hài lòng vì điều gì đó hoặc ai đó đã làm tổn thương bạn."
+        "note": "Resent chỉ cảm giác bực bội, phẫn nộ hoặc không hài lòng vì điều gì đó hoặc ai đó đã làm tổn thương bạn."
       }
     ],
     "cefr_level": "B2",
     "favorite": false
   },
   {
-    "word": "swooping down",
-    "ipa": "/swuːpɪŋ daʊn/",
+    "word": "swoop down",
+    "ipa": "/swuːp daʊn/",
     "meaning": [
       {
         "vi": "lao xuống, bay xuống vội vàng",
@@ -1212,6 +1212,76 @@
         "example_en": "Maybe, in addition to being tired of imposing and persevering.",
         "example_vi": "Có lẽ, ngoài việc mệt mỏi vì cứ áp đặt, còn phải kiên trì nữa.",
         "note": "Persevere dùng để chỉ việc **tiếp tục nỗ lực, bền bỉ làm điều gì đó** mặc dù gặp khó khăn, thử thách hoặc mệt mỏi."
+      }
+    ],
+    "cefr_level": "B2",
+    "favorite": false
+  },
+  {
+    "word": "handhold",
+    "ipa": "/ˈhændhoʊld/",
+    "meaning": [
+      {
+        "vi": "chỗ để tay bám, điểm bám tay",
+        "example_en": "You can’t fall because there’s little bitty handholds the whole way up.",
+        "example_vi": "Bạn không thể ngã vì có những chỗ để tay bé xíu suốt đường leo lên.",
+        "note": "Dùng để chỉ những điểm mà người ta có thể bám tay vào để giữ thăng bằng hoặc leo lên, thường là trên vách đá, cầu thang hoặc vật cao."
+      }
+    ],
+    "cefr_level": "B2",
+    "favorite": false
+  },
+  {
+    "word": "almost-not-there",
+    "ipa": "/ˈɔːlmoʊst nɑːt ˈðɛr/",
+    "meaning": [
+      {
+        "vi": "gần như không có, mờ nhạt",
+        "example_en": "His almost-not-there hair glinted in the sunlight.",
+        "example_vi": "Mái tóc gần như không có của anh ấy lấp lánh dưới ánh nắng.",
+        "note": "Dùng để miêu tả thứ gì đó mỏng manh, mờ nhạt hoặc gần như không thể nhận thấy."
+      }
+    ],
+    "cefr_level": "B2",
+    "favorite": false
+  },
+  {
+    "word": "caw",
+    "ipa": "/kɔː/",
+    "meaning": [
+      {
+        "vi": "kêu (tiếng quạ, chim)",
+        "example_en": "Clarence showed up and he flew over our heads and cawed and cawed.",
+        "example_vi": "Clarence xuất hiện và bay qua đầu chúng tôi và kêu liên tục.",
+        "note": "Dùng để miêu tả tiếng kêu đặc trưng của quạ hoặc một số loài chim lớn."
+      }
+    ],
+    "cefr_level": "B1",
+    "favorite": false
+  },
+  {
+    "word": "perch",
+    "ipa": "/pɜːrtʃ/",
+    "meaning": [
+      {
+        "vi": "đậu, ngồi trên (như chim đậu trên cành)",
+        "example_en": "We sat out in the woods under a tree, and Clarence perched on one of the branches above us.",
+        "example_vi": "Chúng tôi ngồi ngoài rừng dưới gốc cây, và Clarence đậu trên một cành cây phía trên chúng tôi.",
+        "note": "Dùng để miêu tả hành động chim hoặc vật gì đó đặt hoặc ngồi trên vị trí cao, nhỏ hẹp, hoặc cành cây."
+      }
+    ],
+    "cefr_level": "B1",
+    "favorite": false
+  },
+  {
+    "word": "utterances",
+    "ipa": "/ˈʌtərənsɪz/",
+    "meaning": [
+      {
+        "vi": "lời nói, câu nói, phát ngôn",
+        "example_en": "These bologna sandwiches tasted so good that it was just one more reason for me to doubt Granny and the truth of her utterances.",
+        "example_vi": "Những chiếc bánh mì bologna này ngon đến mức chỉ là thêm một lý do nữa để tôi nghi ngờ Granny và sự thật của những lời bà ấy nói.",
+        "note": "Danh từ chỉ các lời nói, câu nói được phát ra; thường dùng trong văn viết hoặc khi nhấn mạnh tính chất lời nói."
       }
     ],
     "cefr_level": "B2",
