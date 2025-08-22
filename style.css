@@ -1,0 +1,13 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.title,
+.word,
+#total-words {
+  font-family: 'Playwrite CA', cursive;
+}
+
+.ipa {
+  font-family: 'Source Code Pro', monospace;
+}
