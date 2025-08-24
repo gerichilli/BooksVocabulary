@@ -1286,5 +1286,33 @@
     ],
     "cefr_level": "B2",
     "favorite": false
+  },
+  {
+    "word": "contemplate",
+    "ipa": "/ˈkɒntəmpleɪt/",
+    "meaning": [
+      {
+        "vi": "suy ngẫm, trầm tư",
+        "example_en": "There is something very sad about contemplating a perplexed alligator.",
+        "example_vi": "Có điều gì đó thật buồn khi suy ngẫm về một con cá sấu bối rối.",
+        "note": "Contemplate nghĩa là suy nghĩ, trầm tư về một vấn đề, đôi khi mang tính triết lý hoặc cảm xúc sâu sắc."
+      }
+    ],
+    "cefr_level": "B2",
+    "favorite": false
+  },
+  {
+    "word": "perplex",
+    "ipa": "/pərˈplɛks/",
+    "meaning": [
+      {
+        "vi": "làm bối rối, gây lúng túng",
+        "example_en": "He was incredibly ferocious-looking, but he also seemed perplexed – as if he were thinking, How in the world did I end up here?",
+        "example_vi": "Anh ta trông vô cùng dữ tợn, nhưng cũng có vẻ bối rối – như thể đang nghĩ, Làm sao mà tôi lại rơi vào đây?",
+        "note": "Perplex (động từ) nghĩa là khiến ai đó cảm thấy bối rối, lúng túng; còn perplexed là tính từ chỉ trạng thái bối rối."
+      }
+    ],
+    "cefr_level": "B2",
+    "favorite": false
   }
 ]
